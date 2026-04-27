@@ -11,4 +11,3 @@ Features:
 •	Special character checking
 •	Simple and fast output
 •	console based application
-
