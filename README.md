@@ -5,9 +5,10 @@ It chacks a whether a password is strong or weak based on different condition li
 uppcacase,lowercase,numbers,and special characters
 
 Features:
-Mnimum length check
-Uppercase and lowercase validation
-Number checking
-Special character checking
-Simple and fast output
-console based application
+•	Mnimum length check
+•	Uppercase and lowercase validation
+•	Number checking
+•	Special character checking
+•	Simple and fast output
+•	console based application
+
